@@ -1,7 +1,4 @@
 streamlit
 bcrypt
-pandas
-python-docx
 PyPDF2
-pdfplumber
-sqlite3-bro
+python-docx
