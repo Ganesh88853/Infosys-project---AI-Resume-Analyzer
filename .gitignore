@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local database (optional – keep if you don’t want to track DB)
+app.db
+data/*.db
+
+# Environment / secrets
+.env
+
+# Streamlit local config
+.streamlit/
+
+# OS / editor files
+.DS_Store
+.vscode/
