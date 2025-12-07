@@ -11,7 +11,7 @@ def login_page():
         st.success(f"You are already logged in as {user['name']}.")
         return
 
-    st.write("Enter your credentials to access the AI Resume App.")
+    st.write("Enter your credentials to access the AI Resume Analysis.")
 
     email = st.text_input("Email")
     password = st.text_input("Password", type="password")

@@ -17,7 +17,7 @@ def main():
     if "page" not in st.session_state:
         st.session_state["page"] = "login"
 
-    st.sidebar.title("AI Resume App")
+    st.sidebar.title("AI Resume Analysis")
 
     if is_logged_in():
         user = get_current_user()

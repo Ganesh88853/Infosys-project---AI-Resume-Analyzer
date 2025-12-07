@@ -41,3 +41,7 @@
 2025-12-06 10:19:28,595 [WARNING] No extractable text found in PDF. It might be image-based (scanned).
 2025-12-06 10:23:28,027 [INFO] PDF text extraction successful.
 2025-12-06 10:23:28,075 [INFO] Resume saved to DB for user_id=5, file=Ramya Sri Penke resume.pdf
+2025-12-06 20:33:41,771 [INFO] PDF text extraction successful.
+2025-12-06 20:33:41,824 [INFO] Resume saved to DB for user_id=5, file=Ramya Sri Penke resume.pdf
+2025-12-07 07:58:50,006 [INFO] PDF text extraction successful.
+2025-12-07 07:58:50,021 [INFO] Resume saved to DB for user_id=6, file=Ramya Sri Penke resume.pdf

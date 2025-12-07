@@ -13,7 +13,7 @@ PASSWORD_REGEX = re.compile(
 
 
 def registration_page():
-    st.title("Create your account ✨")
+    st.title("Create your account Bro ✨")
     st.write("Fill in your details to start using the AI Resume Analysis.")
 
     left, center, right = st.columns([1, 2, 1])
