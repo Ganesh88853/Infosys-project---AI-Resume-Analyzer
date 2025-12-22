@@ -2,3 +2,9 @@ streamlit
 bcrypt
 PyPDF2
 python-docx
+openai
+langchain
+python-dotenv
+tiktoken
+tenacity
+pydantic

@@ -2,11 +2,11 @@ import os
 import re
 import sqlite3
 from datetime import datetime
-
 import bcrypt
 
 # Path to our SQLite database file
 DB_PATH = os.path.join("data", "app.db")
+
 
 
 def init_db():
@@ -204,3 +204,50 @@ def delete_latest_resume_for_user(user_id: int) -> tuple[bool, str]:
             conn.close()
         except Exception:
             pass
+
+
+def init_resume_analysis_table():
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS resume_analysis (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id INTEGER NOT NULL,
+            resume_id INTEGER NOT NULL,
+            strengths TEXT,
+            weaknesses TEXT,
+            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+            UNIQUE(resume_id)
+        )
+    """)
+
+    conn.commit()
+    conn.close()
+
+
+def get_analysis_by_resume_id(resume_id):
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+
+    cursor.execute(
+        "SELECT strengths, weaknesses FROM resume_analysis WHERE resume_id = ?",
+  (resume_id,)
+    )
+    row = cursor.fetchone()
+    conn.close()
+    return row
+
+
+def save_resume_analysis(user_id, resume_id, strengths, weaknesses):
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        INSERT OR REPLACE INTO resume_analysis
+        (user_id, resume_id, strengths, weaknesses)
+        VALUES (?, ?, ?, ?)
+    """, (user_id, resume_id, strengths, weaknesses))
+
+    conn.commit()
+    conn.close()

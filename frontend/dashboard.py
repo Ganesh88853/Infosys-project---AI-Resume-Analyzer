@@ -7,6 +7,13 @@ from backend.resume_parser import (
     delete_latest_resume_for_user,
 )
 
+from backend.llm_analyzer import analyze_resume, extract_skills
+from backend.resume_scorer import score_resume
+
+from frontend.analysis import analysis_page
+from backend.improvement_engine import generate_improvement_suggestions
+
+
 MAX_FILE_SIZE = 5 * 1024 * 1024  # 5 MB
 
 
@@ -182,6 +189,7 @@ def dashboard_page():
                         success, msg = extract_and_save_resume(
                             user["id"], uploaded_file
                         )
+
                         if success:
                             st.success(msg)
                             # After successful upload, jump to analysis tab
@@ -197,22 +205,31 @@ def dashboard_page():
             else:
                 st.info("No file selected yet. Please choose a PDF or DOCX resume.")
 
+
+
+
+
+
     # ============================
     #  RESUME ANALYSIS (placeholder)
     # ============================
     elif section == "Resume Analysis":
-        with st.container(border=True):
-            st.subheader("Resume Analysis")
-            if not resume_row:
-                st.warning("No resume found. Please upload a resume first.")
-            else:
-                st.write(f"Last uploaded resume: **{file_name}** at **{uploaded_at}**")
-                st.info(
-                    "AI-powered resume analysis (ATS score, strengths, weaknesses, "
-                    "missing skills) will be implemented in the next milestone."
-                )
-                with st.expander("Show extracted resume text"):
-                    st.text_area("Extracted Text", extracted_text, height=300)
+        if not resume_row:
+            st.warning("No resume found. Please upload a resume first.")
+        else:
+            # 🔥 CONNECT TASK 12 PAGE HERE
+            st.markdown("### 📄 Extracted Resume Text")
+
+            st.text_area(
+                label="Extracted Text (from resume)",
+                value=extracted_text,
+                height=350,
+                disabled=True
+            )
+            analysis_page(extracted_text)
+
+
+
 
     # ============================
     #  JOB RECOMMENDATIONS (placeholder)

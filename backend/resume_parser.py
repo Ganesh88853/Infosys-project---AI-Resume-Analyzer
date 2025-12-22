@@ -144,7 +144,14 @@ def extract_and_save_resume(user_id: int, uploaded_file) -> Tuple[bool, str]:
         # result is an error message
         return False, result
 
-    extracted_text = result  # already cleaned
+    extracted_text = result.strip()
+
+    if not extracted_text:
+        return False, (
+            "Could not extract text from resume. "
+            "Please upload a digital PDF or DOCX (not scanned image)."
+        )
+
     file_name = uploaded_file.name
 
     db_ok, db_msg = save_resume_for_user(

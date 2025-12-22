@@ -1,6 +1,8 @@
 import streamlit as st
 
 from utils.database import init_db
+from utils.database import init_resume_analysis_table
+
 from frontend.registration import registration_page
 from frontend.login import login_page
 from frontend.dashboard import dashboard_page
@@ -10,6 +12,7 @@ st.set_page_config(page_title="AI Resume App", page_icon="🧾")
 
 # Make sure DB & tables exist
 init_db()
+init_resume_analysis_table()
 
 
 def main():
