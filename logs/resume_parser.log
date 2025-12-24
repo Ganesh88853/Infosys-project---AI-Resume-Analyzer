@@ -353,3 +353,17 @@
 2025-12-22 19:33:47,982 [INFO] Task 9: Starting strengths & weaknesses analysis
 2025-12-22 19:33:47,984 [ERROR] Task 9 error: no such column: strengths
 2025-12-22 19:33:49,536 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-23 19:46:01,076 [INFO] PDF text extraction successful.
+2025-12-23 19:46:01,095 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-23 19:46:01,210 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-23 19:46:01,212 [ERROR] Task 9 error: no such column: strengths
+2025-12-23 19:46:01,979 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-23 20:05:18,808 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-23 20:05:18,810 [ERROR] Task 9 error: no such column: strengths
+2025-12-23 20:05:24,409 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-23 20:06:26,860 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-23 20:06:26,862 [ERROR] Task 9 error: no such column: strengths
+2025-12-23 20:06:27,365 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-23 20:06:37,856 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-23 20:06:37,859 [ERROR] Task 9 error: no such column: strengths
+2025-12-23 20:06:39,172 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.

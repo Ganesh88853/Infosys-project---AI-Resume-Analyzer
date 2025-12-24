@@ -121,148 +121,140 @@ def analysis_page(resume_text: str):
             }
         ]
 
-
-
-
-
-
-    # -----------------------------
-    # OVERALL SCORE SECTION
-    # -----------------------------
-    st.markdown("## 🏆 Overall Resume Score")
-
-    final_score = score["final_score"]
-    grade = score["grade"]
-
-    if final_score < 60:
-        color = "red"
-    elif final_score < 75:
-        color = "orange"
-    elif final_score < 90:
-        color = "green"
-    else:
-        color = "blue"
-
-    st.markdown(
-        f"""
-        <h1 style='color:{color}; text-align:center;'>{final_score}</h1>
-        <h3 style='text-align:center;'>{grade}</h3>
-        """,
-        unsafe_allow_html=True
+    # ==================================================
+    # HORIZONTAL TABS UI
+    # ==================================================
+    tab_score, tab_breakdown, tab_strengths, tab_weaknesses, tab_skills, tab_improve = st.tabs(
+        [
+            "📊 Score",
+            "📈 Breakdown",
+            "✅ Strengths",
+            "⚠️ Weaknesses",
+            "🧠 Skills",
+            "🚀 Improvements"
+        ]
     )
 
-    st.markdown("---")
-
-
     # -----------------------------
-    # SCORE BREAKDOWN
+    # TAB 1: OVERALL SCORE
     # -----------------------------
-    st.markdown("## 📈 Score Breakdown")
+    with tab_score:
+        st.subheader("🏆 Overall Resume Score")
 
-    breakdown = score["breakdown"]
+        final_score = score["final_score"]
+        grade = score["grade"]
 
-    for k, v in breakdown.items():
-        st.write(f"**{k.replace('_',' ').title()}** – {v['score']}")
-        st.progress(v["score"] / 100)
-        st.caption(v["reason"])
-
-    # -----------------------------
-    # STRENGTHS
-    # -----------------------------
-    st.markdown("## ✅ Strengths")
-
-    for s in strengths:
-        with st.container(border=True):
-            st.success(s["point"])
-            st.caption(f"Example: {s['example']}")
-            st.caption(f"Category: {s['category']}")
-            st.caption(f"Confidence: {s['confidence']}%")
-    # -----------------------------
-    # WEAKNESSES
-    # -----------------------------
-    st.markdown("## ⚠️ Weaknesses")
-
-    for w in weaknesses:
-        severity = w.get("severity", "moderate")
-
-        if severity == "critical":
-            st.error(w["point"])
-        elif severity == "minor":
-            st.warning(w["point"])
+        if final_score < 60:
+            color = "red"
+        elif final_score < 75:
+            color = "orange"
+        elif final_score < 90:
+            color = "green"
         else:
-            st.info(w["point"])
+            color = "blue"
 
-        st.caption(f"📍 Location: {w.get('location', 'N/A')}")
-        st.caption(f"📝 Example: {w['example']}")
-        st.caption(f"📊 Confidence: {w['confidence']}%")
+        st.markdown(
+            f"""
+            <h1 style='color:{color}; text-align:center;'>{final_score}</h1>
+            <h3 style='text-align:center;'>{grade}</h3>
+            """,
+            unsafe_allow_html=True
+        )
+
     # -----------------------------
-    # SKILLS
+    # TAB 2: SCORE BREAKDOWN
     # -----------------------------
-    st.markdown("## 🧠 Skills Identified")
+    with tab_breakdown:
+        st.subheader("📈 Score Breakdown")
 
-    tech = skills["technical_skills"]
+        breakdown = score["breakdown"]
 
-    for category, items in tech.items():
-        st.write(f"**{category.replace('_',' ').title()}**")
-        if items:
-            st.write(", ".join([i["name"] for i in items]))
+        for k, v in breakdown.items():
+            st.write(f"**{k.replace('_', ' ').title()}** – {v['score']}")
+            st.progress(v["score"] / 100)
+            st.caption(v["reason"])
+
+    # -----------------------------
+    # TAB 3: STRENGTHS
+    # -----------------------------
+    with tab_strengths:
+        st.subheader("✅ Resume Strengths")
+
+        for s in strengths:
+            with st.container(border=True):
+                st.success(s["point"])
+                st.caption(f"Example: {s['example']}")
+                st.caption(f"Category: {s['category']}")
+                st.caption(f"Confidence: {s['confidence']}%")
+
+    # -----------------------------
+    # TAB 4: WEAKNESSES
+    # -----------------------------
+    with tab_weaknesses:
+        st.subheader("⚠️ Resume Weaknesses")
+
+        for w in weaknesses:
+            severity = w.get("severity", "moderate")
+
+            if severity == "critical":
+                st.error(w["point"])
+            elif severity == "minor":
+                st.warning(w["point"])
+            else:
+                st.info(w["point"])
+
+            st.caption(f"📍 Location: {w.get('location', 'N/A')}")
+            st.caption(f"📝 Example: {w['example']}")
+            st.caption(f"📊 Confidence: {w['confidence']}%")
+
+    # -----------------------------
+    # TAB 5: SKILLS
+    # -----------------------------
+    with tab_skills:
+        st.subheader("🧠 Skills Identified")
+
+        tech = skills["technical_skills"]
+
+        for category, items in tech.items():
+            st.write(f"**{category.replace('_', ' ').title()}**")
+            if items:
+                st.write(", ".join([i["name"] for i in items]))
+            else:
+                st.caption("None detected")
+
+        st.write("**Soft Skills**")
+        st.write(", ".join(skills["soft_skills"]) or "None")
+
+        st.write("**Certifications**")
+        st.write(", ".join(skills["certifications"]) or "None")
+
+    # -----------------------------
+    # TAB 6: IMPROVEMENTS
+    # -----------------------------
+    with tab_improve:
+        st.subheader("🚀 Resume Improvement Suggestions")
+
+        improvements = generate_improvement_suggestions(
+            resume_text=extracted_text,
+            weaknesses=ai_result["weaknesses"]
+        )
+        if "suggestions" not in improvements or len(improvements["suggestions"]) == 0:
+            st.info("No improvements generated.")
         else:
-            st.caption("None detected")
-
-    st.write("**Soft Skills**")
-    st.write(", ".join(skills["soft_skills"]) or "None")
-
-    st.write("**Certifications**")
-    st.write(", ".join(skills["certifications"]) or "None")
-
-    # -----------------------------
-    # SKILL GAP
-    # -----------------------------
-    st.markdown("## 🚀 Skills to Learn (Recommendations)")
-
-    for rec in skill_gap["recommendations"]:
-        with st.container(border=True):
-            st.info(rec["skill"])
-            st.caption(rec["why"])
-            st.caption("Resources: " + ", ".join(rec["resources"]))
+            for s in improvements["suggestions"]:
+                with st.container(border=True):
+                    st.subheader(s["title"])
+                    st.write(s["description"])
+                    st.write("**Before:**", s["before"])
+                    st.write("**After:**", s["after"])
+                    st.caption(
+                        f"Priority: {s['priority']} | "
+                        f"Score +{s['estimated_score_improvement']}"
+                    )
 
 
 
 
-
-        # 5️⃣ Improvement suggestions (Task 13)
-        # --- Generate Improvements ---
-    improvements = generate_improvement_suggestions(
-        resume_text=extracted_text,
-        weaknesses=ai_result["weaknesses"]
-    )
-
-    st.json(improvements)  # 🔴 DEBUG – DO NOT MOVE
-
-    st.subheader("🛠 Resume Improvement Suggestions")
-
-    if "suggestions" not in improvements or len(improvements["suggestions"]) == 0:
-        st.info("No improvements generated.")
-    else:
-        for s in improvements["suggestions"]:
-            st.subheader(s["title"])
-            st.write(s["description"])
-            st.write("*Before:*", s["before"])
-            st.write("*After:*", s["after"])
-            st.caption(f"Priority: {s['priority']} | Score +{s['estimated_score_improvement']}")
-
-    st.markdown("---")
-
-    col1, col2, col3 = st.columns(3)
-
-    with col1:
-        st.button("🔄 Re-analyze Resume")
-
-    with col2:
-        st.button("💼 Find Jobs")
-
-    with col3:
-        st.button("📄 Download Report (PDF)")
 
 
 

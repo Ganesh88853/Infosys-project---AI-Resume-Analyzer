@@ -210,6 +210,12 @@ def dashboard_page():
 
 
 
+
+
+
+
+
+
     # ============================
     #  RESUME ANALYSIS (placeholder)
     # ============================
@@ -217,7 +223,7 @@ def dashboard_page():
         if not resume_row:
             st.warning("No resume found. Please upload a resume first.")
         else:
-            # 🔥 CONNECT TASK 12 PAGE HERE
+
             st.markdown("### 📄 Extracted Resume Text")
 
             st.text_area(
@@ -226,7 +232,11 @@ def dashboard_page():
                 height=350,
                 disabled=True
             )
+
             analysis_page(extracted_text)
+
+
+
 
 
 
