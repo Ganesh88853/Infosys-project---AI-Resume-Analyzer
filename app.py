@@ -1,4 +1,15 @@
 import streamlit as st
+import sys
+import os
+
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
+from backend.database_init import init_db
+init_db()
+from backend.database_init import init_job_preferences
+init_job_preferences()
+
 
 from utils.database import init_db
 from utils.database import init_resume_analysis_table

@@ -9,9 +9,12 @@ from backend.resume_parser import (
 
 from backend.llm_analyzer import analyze_resume, extract_skills
 from backend.resume_scorer import score_resume
-
+from datetime import datetime
 from frontend.analysis import analysis_page
 from backend.improvement_engine import generate_improvement_suggestions
+from frontend.job_recommendations import job_recommendations_page
+from frontend.job_search_preferences import  job_search_preferences_page
+
 
 
 MAX_FILE_SIZE = 5 * 1024 * 1024  # 5 MB
@@ -71,6 +74,7 @@ def dashboard_page():
                 "Upload Resume",
                 "Resume Analysis",
                 "Job Recommendations",
+                "Job Search Preferences",
                 "Settings",
             ],
             index=[
@@ -79,6 +83,7 @@ def dashboard_page():
                 "Upload Resume",
                 "Resume Analysis",
                 "Job Recommendations",
+                "Job Search Preferences",
                 "Settings",
             ].index(st.session_state["dashboard_section"]),
         )
@@ -245,21 +250,19 @@ def dashboard_page():
     #  JOB RECOMMENDATIONS (placeholder)
     # ============================
     elif section == "Job Recommendations":
-        with st.container(border=True):
-            st.subheader("Job Recommendations")
-            st.info(
-                "This section will show AI-based job recommendations based on your "
-                "skills and resume content in upcoming milestones."
-            )
-            if resume_row:
-                st.write(
-                    "✅ Resume available. Once job recommendation logic is added, "
-                    "this page will show matches here."
-                )
-            else:
-                st.warning(
-                    "Please upload a resume first to get job recommendations in future."
-                )
+        from backend.jobs.job_repository import get_jobs_for_user
+        jobs = get_jobs_for_user(user["id"])
+        job_recommendations_page(jobs)
+
+
+
+
+    #job search preferences page
+    elif section == "Job Search Preferences":
+        job_search_preferences_page()
+
+
+
 
     # ============================
     #  SETTINGS

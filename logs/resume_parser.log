@@ -367,3 +367,85 @@
 2025-12-23 20:06:37,856 [INFO] Task 9: Starting strengths & weaknesses analysis
 2025-12-23 20:06:37,859 [ERROR] Task 9 error: no such column: strengths
 2025-12-23 20:06:39,172 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-28 09:36:54,535 [INFO] PDF text extraction successful.
+2025-12-28 09:36:54,556 [INFO] Resume saved to DB for user_id=9, file=Ramya Sri Penke resume.pdf
+2025-12-28 09:36:54,654 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-28 09:36:54,656 [ERROR] Task 9 error: no such column: strengths
+2025-12-28 09:36:55,710 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-28 11:32:00,027 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-28 11:32:00,035 [ERROR] Task 9 error: no such column: strengths
+2025-12-28 11:32:00,987 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-28 11:32:04,893 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-28 11:32:04,897 [ERROR] Task 9 error: no such column: strengths
+2025-12-28 11:32:05,119 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-28 13:36:33,984 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-28 13:36:34,009 [ERROR] Task 9 error: no such column: strengths
+2025-12-28 13:36:34,848 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-28 13:36:53,902 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-28 13:36:53,905 [ERROR] Task 9 error: no such column: strengths
+2025-12-28 13:36:54,095 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-29 08:18:08,611 [INFO] ====== WebDriver manager ======
+2025-12-29 08:18:10,823 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:18:12,910 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:18:14,662 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:18:17,839 [INFO] WebDriver version 143.0.7499.169 selected
+2025-12-29 08:18:17,847 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-29 08:18:17,847 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-29 08:18:19,849 [INFO] Driver downloading response is 200
+2025-12-29 08:18:27,752 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:18:29,431 [INFO] Driver has been saved in cache [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169]
+2025-12-29 08:22:32,560 [INFO] PDF text extraction successful.
+2025-12-29 08:22:32,580 [INFO] Resume saved to DB for user_id=9, file=Ramya Sri Penke resume.pdf
+2025-12-29 08:22:32,714 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-29 08:22:32,716 [ERROR] Task 9 error: no such column: strengths
+2025-12-29 08:22:33,846 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-29 08:24:02,237 [INFO] ====== WebDriver manager ======
+2025-12-29 08:24:04,814 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:24:06,085 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:24:07,321 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 08:26:50,373 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-29 08:26:50,374 [ERROR] Task 9 error: no such column: strengths
+2025-12-29 08:26:51,677 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-29 08:26:51,681 [ERROR] Task 9 error: no such column: strengths
+2025-12-29 08:26:54,335 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-29 08:26:54,416 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-29 08:32:23,257 [INFO] ====== WebDriver manager ======
+2025-12-29 08:32:25,646 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:32:26,920 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:32:28,064 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 09:06:00,123 [INFO] ====== WebDriver manager ======
+2025-12-29 09:06:02,341 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:06:03,630 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:06:05,147 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 09:28:31,293 [INFO] ====== WebDriver manager ======
+2025-12-29 09:28:33,328 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:28:38,276 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:28:39,633 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 09:39:00,763 [INFO] ====== WebDriver manager ======
+2025-12-29 09:39:02,755 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:39:03,930 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:39:05,487 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 09:51:17,820 [INFO] ====== WebDriver manager ======
+2025-12-29 09:51:19,735 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:51:20,931 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:51:22,165 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 09:54:20,004 [INFO] ====== WebDriver manager ======
+2025-12-29 09:54:21,930 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:54:23,236 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:54:24,483 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 10:07:14,308 [INFO] ====== WebDriver manager ======
+2025-12-29 10:07:16,314 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:07:17,702 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:07:18,936 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 10:14:25,588 [INFO] ====== WebDriver manager ======
+2025-12-29 10:14:28,539 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:14:30,397 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:14:32,264 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 10:34:58,068 [INFO] ====== WebDriver manager ======
+2025-12-29 10:35:00,045 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:35:01,578 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:35:02,705 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 10:50:41,121 [INFO] ====== WebDriver manager ======
+2025-12-29 10:50:43,138 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:50:44,303 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:50:46,017 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache

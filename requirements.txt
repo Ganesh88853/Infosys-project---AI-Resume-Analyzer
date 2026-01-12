@@ -1,10 +1,9 @@
 streamlit
 bcrypt
 PyPDF2
-python-docx
-openai
-langchain
+selenium
+webdriver-manager
 python-dotenv
-tiktoken
-tenacity
-pydantic
+google-generativeai
+beautifulsoup4
+requests
