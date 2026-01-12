@@ -283,3 +283,22 @@ RESUME TEXT:
     return fallback
 
 
+
+def analyze_job_description(text):
+    prompt = f"""
+    Extract structured data from job description.
+    Return JSON with:
+    skills, qualifications, salary, applicants
+
+    Job Description:
+    {text}
+    """
+
+    try:
+        response = model.generate_content(prompt)
+        return json.loads(response.text)
+    except:
+        return {}
+
+
+

@@ -1,4 +1,14 @@
 import streamlit as st
+import sys
+import os
+
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
+
+
+
+
 
 from utils.database import init_db
 from utils.database import init_resume_analysis_table
@@ -11,7 +21,7 @@ from backend.auth import is_logged_in, get_current_user, logout_user
 st.set_page_config(page_title="AI Resume App", page_icon="🧾")
 
 # Make sure DB & tables exist
-init_db()
+
 init_resume_analysis_table()
 
 

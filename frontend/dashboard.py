@@ -1,3 +1,14 @@
+import sys
+import os
+import time
+from datetime import datetime
+
+# ---------------- PATH FIX ----------------
+PROJECT_ROOT = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..")
+)
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
 import streamlit as st
 
 from backend.auth import get_current_user, is_logged_in, logout_user
@@ -9,9 +20,11 @@ from backend.resume_parser import (
 
 from backend.llm_analyzer import analyze_resume, extract_skills
 from backend.resume_scorer import score_resume
-
+from datetime import datetime
 from frontend.analysis import analysis_page
 from backend.improvement_engine import generate_improvement_suggestions
+from frontend.job_recommendations import job_recommendation_page
+from frontend.job_search_preferences import  job_search_preference_page
 
 
 MAX_FILE_SIZE = 5 * 1024 * 1024  # 5 MB
@@ -71,6 +84,7 @@ def dashboard_page():
                 "Upload Resume",
                 "Resume Analysis",
                 "Job Recommendations",
+                "Job Search Preferences",
                 "Settings",
             ],
             index=[
@@ -79,6 +93,7 @@ def dashboard_page():
                 "Upload Resume",
                 "Resume Analysis",
                 "Job Recommendations",
+                "Job Search Preferences",
                 "Settings",
             ].index(st.session_state["dashboard_section"]),
         )
@@ -245,21 +260,16 @@ def dashboard_page():
     #  JOB RECOMMENDATIONS (placeholder)
     # ============================
     elif section == "Job Recommendations":
-        with st.container(border=True):
-            st.subheader("Job Recommendations")
-            st.info(
-                "This section will show AI-based job recommendations based on your "
-                "skills and resume content in upcoming milestones."
-            )
-            if resume_row:
-                st.write(
-                    "✅ Resume available. Once job recommendation logic is added, "
-                    "this page will show matches here."
-                )
-            else:
-                st.warning(
-                    "Please upload a resume first to get job recommendations in future."
-                )
+        job_recommendation_page()
+
+
+
+    #job search preferences page
+    elif section == "Job Search Preferences":
+        job_search_preference_page()
+
+
+
 
     # ============================
     #  SETTINGS

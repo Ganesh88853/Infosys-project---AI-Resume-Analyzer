@@ -251,3 +251,14 @@ def save_resume_analysis(user_id, resume_id, strengths, weaknesses):
 
     conn.commit()
     conn.close()
+
+ # use the SAME db file your app already uses
+
+
+def get_db_connection():
+    """
+    Returns a SQLite database connection
+    """
+    conn = sqlite3.connect(DB_PATH, check_same_thread=False)
+    conn.row_factory = sqlite3.Row
+    return conn
