@@ -1,5 +1,6 @@
 streamlit
 bcrypt
+python-docx
 PyPDF2
 selenium
 webdriver-manager
