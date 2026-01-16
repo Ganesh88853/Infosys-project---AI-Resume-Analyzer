@@ -1,0 +1,474 @@
+2025-12-06 08:53:06,567 [INFO] PDF text extraction successful.
+2025-12-06 08:53:06,578 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 08:53:10,871 [INFO] PDF text extraction successful.
+2025-12-06 08:53:10,911 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 08:57:24,213 [INFO] PDF text extraction successful.
+2025-12-06 08:57:24,257 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 08:57:24,855 [INFO] PDF text extraction successful.
+2025-12-06 08:57:24,870 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:15:42,371 [INFO] PDF text extraction successful.
+2025-12-06 09:15:42,416 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:15:49,594 [INFO] PDF text extraction successful.
+2025-12-06 09:15:49,603 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:15:55,253 [INFO] PDF text extraction successful.
+2025-12-06 09:15:55,295 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:16:04,161 [INFO] PDF text extraction successful.
+2025-12-06 09:16:04,171 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:16:17,542 [INFO] PDF text extraction successful.
+2025-12-06 09:16:17,585 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:16:56,859 [INFO] PDF text extraction successful.
+2025-12-06 09:16:56,904 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:19:51,089 [INFO] PDF text extraction successful.
+2025-12-06 09:19:51,131 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:19:52,834 [INFO] PDF text extraction successful.
+2025-12-06 09:19:52,878 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:25:39,808 [INFO] PDF text extraction successful.
+2025-12-06 09:25:39,853 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:35:07,936 [INFO] PDF text extraction successful.
+2025-12-06 09:35:07,981 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:35:12,265 [INFO] PDF text extraction successful.
+2025-12-06 09:35:12,307 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:35:16,517 [INFO] PDF text extraction successful.
+2025-12-06 09:35:16,526 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:35:18,383 [INFO] PDF text extraction successful.
+2025-12-06 09:35:18,425 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:35:19,790 [INFO] PDF text extraction successful.
+2025-12-06 09:35:19,831 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 09:35:20,997 [INFO] PDF text extraction successful.
+2025-12-06 09:35:21,039 [INFO] Resume saved to DB for user_id=3, file=Ramya Sri Penke resume.pdf
+2025-12-06 10:06:06,048 [WARNING] No extractable text found in PDF. It might be image-based (scanned).
+2025-12-06 10:06:33,146 [WARNING] No extractable text found in PDF. It might be image-based (scanned).
+2025-12-06 10:19:28,595 [WARNING] No extractable text found in PDF. It might be image-based (scanned).
+2025-12-06 10:23:28,027 [INFO] PDF text extraction successful.
+2025-12-06 10:23:28,075 [INFO] Resume saved to DB for user_id=5, file=Ramya Sri Penke resume.pdf
+2025-12-06 20:33:41,771 [INFO] PDF text extraction successful.
+2025-12-06 20:33:41,824 [INFO] Resume saved to DB for user_id=5, file=Ramya Sri Penke resume.pdf
+2025-12-07 07:58:50,006 [INFO] PDF text extraction successful.
+2025-12-07 07:58:50,021 [INFO] Resume saved to DB for user_id=6, file=Ramya Sri Penke resume.pdf
+2025-12-07 20:37:32,494 [INFO] PDF text extraction successful.
+2025-12-07 20:37:32,511 [INFO] Resume saved to DB for user_id=6, file=Ramya Sri Penke resume.pdf
+2025-12-08 19:37:24,999 [INFO] PDF text extraction successful.
+2025-12-08 19:37:25,016 [INFO] Resume saved to DB for user_id=7, file=Ramya Sri Penke resume.pdf
+2025-12-08 19:38:35,688 [INFO] PDF text extraction successful.
+2025-12-08 19:38:35,733 [INFO] Resume saved to DB for user_id=7, file=Ramya Sri Penke resume.pdf
+2025-12-08 19:56:31,230 [INFO] PDF text extraction successful.
+2025-12-08 19:56:31,281 [INFO] Resume saved to DB for user_id=7, file=Ramya Sri Penke resume.pdf
+2025-12-11 20:53:33,029 [INFO] PDF text extraction successful.
+2025-12-11 20:53:33,056 [INFO] Resume saved to DB for user_id=4, file=Ramya Sri Penke resume.pdf
+2025-12-14 10:01:33,088 [INFO] PDF text extraction successful.
+2025-12-14 10:01:33,105 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-14 10:36:17,548 [INFO] PDF text extraction successful.
+2025-12-14 10:36:17,566 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-14 10:37:32,107 [INFO] PDF text extraction successful.
+2025-12-14 10:37:32,125 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-15 18:59:45,539 [WARNING] No extractable text found in PDF. It might be image-based (scanned).
+2025-12-15 18:59:59,863 [INFO] PDF text extraction successful.
+2025-12-15 18:59:59,880 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-15 19:39:46,715 [INFO] PDF text extraction successful.
+2025-12-15 19:39:46,760 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-15 19:39:51,236 [INFO] PDF text extraction successful.
+2025-12-15 19:39:51,291 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-15 19:39:52,376 [INFO] PDF text extraction successful.
+2025-12-15 19:39:52,429 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-15 19:39:55,963 [INFO] Running new resume analysis
+2025-12-15 19:40:24,553 [INFO] Running resume scoring
+2025-12-15 19:40:24,554 [INFO] Calling Ollama (attempt 1)
+2025-12-15 19:41:26,655 [ERROR] LLM request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+2025-12-15 19:41:28,668 [INFO] Calling Ollama (attempt 2)
+2025-12-15 19:42:29,788 [INFO] Tokens used: 890, Cost: $0.0000
+2025-12-15 19:49:47,445 [INFO] Running new resume analysis
+2025-12-15 19:50:14,463 [INFO] PDF text extraction successful.
+2025-12-15 19:50:14,476 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-15 19:50:16,935 [INFO] PDF text extraction successful.
+2025-12-15 19:50:16,946 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-15 19:50:27,266 [INFO] Running new resume analysis
+2025-12-16 21:20:01,612 [INFO] Starting resume analysis
+2025-12-16 21:20:01,614 [INFO] Resume analysis completed successfully
+2025-12-16 21:20:20,810 [INFO] Starting resume analysis
+2025-12-16 21:20:20,811 [INFO] Resume analysis completed successfully
+2025-12-16 21:20:34,918 [INFO] PDF text extraction successful.
+2025-12-16 21:20:34,949 [INFO] Resume saved to DB for user_id=4, file=Ramya Sri Penke resume.pdf
+2025-12-16 21:20:35,018 [INFO] Starting resume analysis
+2025-12-16 21:20:35,019 [INFO] Resume analysis completed successfully
+2025-12-17 06:08:35,238 [INFO] Starting resume analysis
+2025-12-17 06:08:35,242 [INFO] Resume analysis completed successfully
+2025-12-17 06:29:46,146 [INFO] Starting Gemini resume analysis
+2025-12-17 06:29:47,091 [ERROR] Gemini AI error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 05:17:20,549 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 05:17:20,554 [ERROR] Task 9 Gemini error: no such column: strengths
+2025-12-18 05:22:23,661 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 05:22:23,663 [ERROR] Task 9 Gemini error: no such column: strengths
+2025-12-18 05:25:34,414 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 05:25:34,419 [ERROR] Task 9 Gemini error: no such column: strengths
+2025-12-18 18:26:53,897 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 18:26:53,906 [ERROR] Task 9 error: no such column: strengths
+2025-12-18 19:53:03,224 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 19:53:03,226 [ERROR] Task 9 error: no such column: strengths
+2025-12-18 19:59:27,177 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 19:59:27,179 [ERROR] Task 9 error: no such column: strengths
+2025-12-18 19:59:27,778 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:36:10,428 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:36:10,433 [ERROR] Task 9 error: no such column: strengths
+2025-12-18 20:36:20,494 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:52:12,791 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:52:13,642 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:52:13,856 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:52:42,673 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:52:42,849 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:52:43,022 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:52:55,199 [INFO] PDF text extraction successful.
+2025-12-18 20:52:55,220 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-18 20:52:55,352 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:52:55,568 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:52:55,744 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:53:06,091 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:53:06,403 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:53:06,972 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:53:23,733 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:53:23,959 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:53:24,157 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:53:53,015 [INFO] PDF text extraction successful.
+2025-12-18 20:53:53,031 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-18 20:53:53,132 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:53:53,357 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:53:53,596 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:54:07,607 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:54:07,923 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:54:08,376 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:54:11,797 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:54:12,160 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:54:12,423 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:54:21,811 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:54:22,307 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:54:22,679 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:54:33,338 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:54:33,653 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:54:33,942 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:54:35,631 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:54:36,005 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:54:36,356 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:55:00,543 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:55:00,809 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:55:01,087 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:55:04,219 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:55:04,537 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:55:04,844 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:55:46,128 [INFO] PDF text extraction successful.
+2025-12-18 20:55:46,166 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-18 20:55:46,338 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:55:47,612 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:55:48,840 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:56:49,074 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 20:56:49,762 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 20:56:51,299 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:10:12,083 [INFO] PDF text extraction successful.
+2025-12-18 21:10:12,125 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-18 21:10:12,346 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 21:10:21,077 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:10:21,812 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:10:49,807 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 21:10:50,842 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:10:52,594 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:16:05,341 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 21:16:06,205 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:16:06,473 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:18:22,977 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 21:18:23,683 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:18:23,974 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:18:51,997 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 21:18:52,217 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:18:52,454 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:19:28,827 [INFO] PDF text extraction successful.
+2025-12-18 21:19:28,880 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-18 21:19:29,041 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 21:19:29,366 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:19:29,651 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:20:43,182 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 21:20:44,795 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:20:45,102 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 21:49:17,475 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 21:49:17,490 [ERROR] Task 9 error: no such column: strengths
+2025-12-18 21:49:25,011 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 22:03:42,114 [INFO] PDF text extraction successful.
+2025-12-18 22:03:42,145 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-18 22:03:42,311 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 22:03:42,315 [ERROR] Task 9 error: no such column: strengths
+2025-12-18 22:03:42,963 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 22:09:01,212 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 22:09:01,217 [ERROR] Task 9 error: no such column: strengths
+2025-12-18 22:09:01,997 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 22:10:28,074 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 22:10:28,077 [ERROR] Task 9 error: no such column: strengths
+2025-12-18 22:10:28,800 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 22:16:28,231 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 22:16:28,234 [ERROR] Task 9 error: no such column: strengths
+2025-12-18 22:16:29,316 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-18 22:16:29,387 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-18 22:16:29,390 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 06:20:38,727 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 06:20:38,731 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 06:22:11,346 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 06:22:11,347 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 06:22:12,276 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 06:22:12,312 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 06:22:12,315 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 06:24:13,830 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 06:24:13,832 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 06:24:14,092 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 06:24:14,136 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 06:24:14,138 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 06:36:39,477 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 06:36:39,482 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 06:36:40,350 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 06:36:40,545 [ERROR] Improvement generation failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 06:36:40,678 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 06:36:40,682 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 06:36:40,864 [ERROR] Improvement generation failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 17:46:11,718 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 17:46:11,735 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 17:46:13,109 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 17:46:13,398 [ERROR] Improvement generation failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 17:46:13,719 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 17:46:13,734 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 17:46:13,942 [ERROR] Improvement generation failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 18:15:22,252 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 18:15:22,253 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 18:15:22,939 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 18:15:23,133 [ERROR] Improvement generation failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 18:15:23,195 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 18:15:23,198 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 18:15:23,372 [ERROR] Improvement generation failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 18:27:13,938 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 18:27:13,940 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 18:27:15,758 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 18:27:15,810 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 18:27:15,816 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:15:11,761 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:15:11,763 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:15:13,431 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 19:15:13,481 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:15:13,483 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:21:09,951 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:21:09,953 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:21:11,538 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 19:21:11,581 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:21:11,584 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:25:41,490 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:25:41,491 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:25:42,282 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 19:30:30,849 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:30:30,852 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:30:31,716 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 19:36:00,498 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:36:00,500 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:36:01,579 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 19:38:15,314 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:38:15,319 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:38:17,029 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 19:42:45,760 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:42:45,762 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:42:46,748 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 19:44:47,972 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:44:47,974 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:44:48,985 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 19:46:10,114 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:46:10,116 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:46:10,688 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 19:46:14,289 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 19:46:14,290 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 19:46:14,497 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 20:29:22,376 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 20:29:22,384 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 20:29:23,920 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 20:29:43,855 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 20:29:43,857 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 20:29:44,115 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-19 20:36:13,813 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-19 20:36:13,818 [ERROR] Task 9 error: no such column: strengths
+2025-12-19 20:36:15,925 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 07:42:07,491 [INFO] PDF text extraction successful.
+2025-12-20 07:42:07,510 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-20 07:42:07,607 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 07:42:07,610 [ERROR] Task 9 error: no such column: strengths
+2025-12-20 07:42:08,737 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 07:42:08,901 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 07:42:08,902 [ERROR] Task 9 error: no such column: strengths
+2025-12-20 07:42:09,193 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 07:45:02,949 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 07:45:02,951 [ERROR] Task 9 error: no such column: strengths
+2025-12-20 07:45:03,708 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:00:04,985 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 08:00:05,747 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:00:05,896 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:06:16,965 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 08:06:17,766 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:06:17,938 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:20:25,014 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 08:20:25,841 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:20:26,003 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:25:27,105 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 08:25:28,125 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:25:28,305 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:32:19,793 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 08:32:20,939 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:32:21,175 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:37:35,107 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 08:37:40,241 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:37:40,745 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:39:04,228 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 08:39:05,713 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:39:06,704 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:46:44,405 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-20 08:46:45,184 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-20 08:46:45,341 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-21 06:16:09,154 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-21 06:16:10,192 [ERROR] Task 9 error: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-21 06:16:10,413 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-21 06:27:26,549 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-21 06:27:26,550 [ERROR] Task 9 error: no such column: strengths
+2025-12-21 06:27:28,364 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-21 06:40:31,458 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-21 06:40:31,460 [ERROR] Task 9 error: no such column: strengths
+2025-12-21 06:40:32,488 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-21 06:49:41,313 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-21 06:49:41,317 [ERROR] Task 9 error: no such column: strengths
+2025-12-21 06:49:42,427 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-22 19:11:41,678 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-22 19:11:41,725 [ERROR] Task 9 error: no such column: strengths
+2025-12-22 19:11:43,196 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-22 19:14:36,336 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-22 19:14:36,338 [ERROR] Task 9 error: no such column: strengths
+2025-12-22 19:14:36,581 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-22 19:26:07,937 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-22 19:26:07,944 [ERROR] Task 9 error: no such column: strengths
+2025-12-22 19:26:34,928 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-22 19:26:34,933 [ERROR] Task 9 error: no such column: strengths
+2025-12-22 19:26:48,584 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-22 19:26:48,586 [ERROR] Task 9 error: no such column: strengths
+2025-12-22 19:27:22,728 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-22 19:27:22,730 [ERROR] Task 9 error: no such column: strengths
+2025-12-22 19:28:48,214 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-22 19:28:48,216 [ERROR] Task 9 error: no such column: strengths
+2025-12-22 19:28:51,977 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-22 19:33:47,982 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-22 19:33:47,984 [ERROR] Task 9 error: no such column: strengths
+2025-12-22 19:33:49,536 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-23 19:46:01,076 [INFO] PDF text extraction successful.
+2025-12-23 19:46:01,095 [INFO] Resume saved to DB for user_id=8, file=Ramya Sri Penke resume.pdf
+2025-12-23 19:46:01,210 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-23 19:46:01,212 [ERROR] Task 9 error: no such column: strengths
+2025-12-23 19:46:01,979 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-23 20:05:18,808 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-23 20:05:18,810 [ERROR] Task 9 error: no such column: strengths
+2025-12-23 20:05:24,409 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-23 20:06:26,860 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-23 20:06:26,862 [ERROR] Task 9 error: no such column: strengths
+2025-12-23 20:06:27,365 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-23 20:06:37,856 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-23 20:06:37,859 [ERROR] Task 9 error: no such column: strengths
+2025-12-23 20:06:39,172 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-28 09:36:54,535 [INFO] PDF text extraction successful.
+2025-12-28 09:36:54,556 [INFO] Resume saved to DB for user_id=9, file=Ramya Sri Penke resume.pdf
+2025-12-28 09:36:54,654 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-28 09:36:54,656 [ERROR] Task 9 error: no such column: strengths
+2025-12-28 09:36:55,710 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-28 11:32:00,027 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-28 11:32:00,035 [ERROR] Task 9 error: no such column: strengths
+2025-12-28 11:32:00,987 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-28 11:32:04,893 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-28 11:32:04,897 [ERROR] Task 9 error: no such column: strengths
+2025-12-28 11:32:05,119 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-28 13:36:33,984 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-28 13:36:34,009 [ERROR] Task 9 error: no such column: strengths
+2025-12-28 13:36:34,848 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-28 13:36:53,902 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-28 13:36:53,905 [ERROR] Task 9 error: no such column: strengths
+2025-12-28 13:36:54,095 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-29 08:18:08,611 [INFO] ====== WebDriver manager ======
+2025-12-29 08:18:10,823 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:18:12,910 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:18:14,662 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:18:17,839 [INFO] WebDriver version 143.0.7499.169 selected
+2025-12-29 08:18:17,847 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-29 08:18:17,847 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-29 08:18:19,849 [INFO] Driver downloading response is 200
+2025-12-29 08:18:27,752 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:18:29,431 [INFO] Driver has been saved in cache [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169]
+2025-12-29 08:22:32,560 [INFO] PDF text extraction successful.
+2025-12-29 08:22:32,580 [INFO] Resume saved to DB for user_id=9, file=Ramya Sri Penke resume.pdf
+2025-12-29 08:22:32,714 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-29 08:22:32,716 [ERROR] Task 9 error: no such column: strengths
+2025-12-29 08:22:33,846 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-29 08:24:02,237 [INFO] ====== WebDriver manager ======
+2025-12-29 08:24:04,814 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:24:06,085 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:24:07,321 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 08:26:50,373 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-29 08:26:50,374 [ERROR] Task 9 error: no such column: strengths
+2025-12-29 08:26:51,677 [INFO] Task 9: Starting strengths & weaknesses analysis
+2025-12-29 08:26:51,681 [ERROR] Task 9 error: no such column: strengths
+2025-12-29 08:26:54,335 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-29 08:26:54,416 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-29 08:32:23,257 [INFO] ====== WebDriver manager ======
+2025-12-29 08:32:25,646 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:32:26,920 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 08:32:28,064 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 09:06:00,123 [INFO] ====== WebDriver manager ======
+2025-12-29 09:06:02,341 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:06:03,630 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:06:05,147 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 09:28:31,293 [INFO] ====== WebDriver manager ======
+2025-12-29 09:28:33,328 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:28:38,276 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:28:39,633 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 09:39:00,763 [INFO] ====== WebDriver manager ======
+2025-12-29 09:39:02,755 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:39:03,930 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:39:05,487 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 09:51:17,820 [INFO] ====== WebDriver manager ======
+2025-12-29 09:51:19,735 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:51:20,931 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:51:22,165 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 09:54:20,004 [INFO] ====== WebDriver manager ======
+2025-12-29 09:54:21,930 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:54:23,236 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 09:54:24,483 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 10:07:14,308 [INFO] ====== WebDriver manager ======
+2025-12-29 10:07:16,314 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:07:17,702 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:07:18,936 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 10:14:25,588 [INFO] ====== WebDriver manager ======
+2025-12-29 10:14:28,539 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:14:30,397 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:14:32,264 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 10:34:58,068 [INFO] ====== WebDriver manager ======
+2025-12-29 10:35:00,045 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:35:01,578 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:35:02,705 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-29 10:50:41,121 [INFO] ====== WebDriver manager ======
+2025-12-29 10:50:43,138 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:50:44,303 [INFO] Get LATEST chromedriver version for google-chrome
+2025-12-29 10:50:46,017 [INFO] Driver [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-15 09:18:03,164 [INFO] Task 9: Starting strengths & weaknesses analysis
+2026-01-15 09:18:03,166 [ERROR] Task 9 error: no such column: strengths
+2026-01-15 09:18:06,901 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-15 09:18:20,801 [INFO] Task 9: Starting strengths & weaknesses analysis
+2026-01-15 09:18:20,802 [ERROR] Task 9 error: no such column: strengths
+2026-01-15 09:18:22,680 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-15 09:19:05,204 [INFO] ====== WebDriver manager ======
+2026-01-15 09:19:13,430 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-15 09:19:16,720 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-15 09:19:18,691 [INFO] There is no [win64] chromedriver "143.0.7499.192" for browser google-chrome "143.0.7499" in cache
+2026-01-15 09:19:18,692 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-15 09:19:23,014 [INFO] WebDriver version 143.0.7499.192 selected
+2026-01-15 09:19:23,027 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+2026-01-15 09:19:23,028 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+2026-01-15 09:19:25,387 [INFO] Driver downloading response is 200
+2026-01-15 09:21:51,626 [INFO] Get LATEST chromedriver version for google-chrome
+2026-01-15 09:21:54,946 [INFO] Driver has been saved in cache [C:\Users\pilli\.wdm\drivers\chromedriver\win64\143.0.7499.192]
+2026-01-16 08:44:14,693 [INFO] Task 9: Starting strengths & weaknesses analysis
+2026-01-16 08:44:14,704 [ERROR] Task 9 error: no such column: strengths
+2026-01-16 08:44:15,258 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-16 08:44:22,310 [INFO] Task 9: Starting strengths & weaknesses analysis
+2026-01-16 08:44:22,315 [ERROR] Task 9 error: no such column: strengths
+2026-01-16 08:44:22,556 [ERROR] Gemini skill extraction failed: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.

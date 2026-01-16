@@ -1,0 +1,9 @@
+streamlit
+bcrypt
+PyPDF2
+selenium
+webdriver-manager
+python-dotenv
+google-generativeai
+beautifulsoup4
+requests
